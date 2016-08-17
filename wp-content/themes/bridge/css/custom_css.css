@@ -1,0 +1,45 @@
+
+
+.q_logo a {
+  height: 60px !important;
+}
+.q_icon_with_title .icon_text_holder .icon_title {
+  font-weight: 400;
+}
+.q_list.circle ul>li:before{
+  background-color: #86415c;
+}
+.title {
+  border-bottom-width: 5px;
+}
+
+ .footer_top {
+ /* border-top: 5px solid #86415c; */
+}
+
+
+.carousel-control .prev_nav, .carousel-control .next_nav {
+    border: none;
+    margin-top: 21px;
+}
+
+.carousel-control .prev_nav {
+    left: 20px;
+}
+
+.carousel-control .next_nav {
+    right: 20px;
+}
+
+.carousel-control i {
+    font-size: 24px;
+}
+
+.carousel-control .prev_nav:hover i, .carousel-control .next_nav:hover i {
+    color: rgba(134,65,92,1);
+    -webkit-transition: color .15s ease-out;
+    -moz-transition: color .15s ease-out;
+    -o-transition: color .15s ease-out;
+    -ms-transform: color .15s ease-outt;
+    transition: color .15s ease-out;
+}
